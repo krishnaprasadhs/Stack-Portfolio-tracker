@@ -1,0 +1,4 @@
+yfinance
+pytest
+pyfiglet
+tabulate
