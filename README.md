@@ -1,4 +1,10 @@
 # Stock Portfolio Tracker
+---
+
+## Certification:
+![CS50P](https://github.com/krishnaprasadhs/Stack-Portfolio-tracker/assets/74102278/24276277-aad6-4916-b296-d2cf8e0a56b9)
+
+---
 ### Video Demo: [click here ](https://youtu.be/85OTIf7gJhs)
 
 #### Description:
@@ -213,8 +219,3 @@ Options:
 Enter the option number: 6
 project/ $
 ```
----
-
-## Certification:
-![CS50P](https://github.com/krishnaprasadhs/Stack-Portfolio-tracker/assets/74102278/24276277-aad6-4916-b296-d2cf8e0a56b9)
-
